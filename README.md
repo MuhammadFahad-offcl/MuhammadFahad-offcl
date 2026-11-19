@@ -87,7 +87,7 @@ fahad = {
 - [**HaqFlow**](https://github.com/MuhammadFahad-offcl/HaqFlow-AI-Hackathon-Project): guides people in Pakistan to the public support programs they qualify for (BISP, Bait-ul-Mal, Sehat Card). FastAPI · React 19.
 - [**UniWell AI**](https://github.com/MuhammadFahad-offcl/Uniwell-AI-Hackathon-Project): turns student deadlines and daily check-ins into an adaptive study plan. TypeScript · FastAPI · Gemini/Groq.
 - [**n8n Automation Hub**](https://github.com/MuhammadFahad-offcl/N8N-Automation-Hub): importable n8n workflows, starting with a lead intake pipeline (MySQL + WhatsApp).
-- [**VoxFlow website**](https://voxflow-seven.vercel.app): my agency's site, with a try-it-yourself WhatsApp booking demo in English and Roman Urdu.
+- [**VoxFlow website**](https://voxflow.agency): my agency's site, with a try-it-yourself WhatsApp booking demo in English and Roman Urdu.
 
 </details>
 
@@ -101,7 +101,7 @@ fahad = {
 
 <p align="center">
   <b>Hiring for AI / automation, or need an AI agent for your business?</b><br>
-  <a href="mailto:muhammadfahad.offcl@gmail.com">muhammadfahad.offcl@gmail.com</a> · <a href="https://linkedin.com/in/muhammadfahad-offcl">LinkedIn</a> · <a href="https://voxflow-seven.vercel.app">VoxFlow AI</a>
+  <a href="mailto:muhammadfahad.offcl@gmail.com">muhammadfahad.offcl@gmail.com</a> · <a href="https://linkedin.com/in/muhammadfahad-offcl">LinkedIn</a> · <a href="https://voxflow.agency">VoxFlow AI</a>
 </p>
 
 <p align="center">
