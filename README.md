@@ -1,7 +1,7 @@
 <h1 align="center">Muhammad Fahad</h1>
 
 <p align="center">
-  <b>AI automation engineer</b> · Founder of <a href="https://voxflow.agency">VoxFlow AI Solutions</a> · BSCS @ UMT Lahore
+  <b>AI automation engineer</b> · Founder of <a href="https://voxflow-seven.vercel.app">VoxFlow AI Solutions</a> · BSCS @ UMT Lahore
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="https://portfolio-fahad-offcl.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111153?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/muhammadfahad-offcl"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:muhammadfahad.offcl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://voxflow.agency"><img src="https://img.shields.io/badge/VoxFlow_AI-2563EB?style=flat&logo=googlechrome&logoColor=white" alt="VoxFlow AI"></a>
+  <a href="https://voxflow-seven.vercel.app"><img src="https://img.shields.io/badge/VoxFlow_AI-2563EB?style=flat&logo=googlechrome&logoColor=white" alt="VoxFlow AI"></a>
 </p>
 
 ---
