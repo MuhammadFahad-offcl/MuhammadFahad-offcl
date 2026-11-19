@@ -13,7 +13,7 @@
   <a href="mailto:muhammadfahad.offcl@gmail.com"><img src="https://img.shields.io/badge/Hire_me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/muhammadfahad-offcl"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/MuhammadFahad-offcl/Portfolio/blob/main/public/Muhammad_Fahad_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-111827?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"></a>
-  <a href="https://portfolio-fahad-offcl.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://muhammadfahad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
